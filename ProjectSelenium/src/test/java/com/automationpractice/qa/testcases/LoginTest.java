@@ -11,7 +11,6 @@ import com.automationpractice.qa.pages.LoginPage;
 
 public class LoginTest extends TestBase {
 	
-	
 	LoginPage lp;
 	HomePage hp;
 	public LoginTest()
